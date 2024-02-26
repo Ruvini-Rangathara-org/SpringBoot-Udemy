@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/02-spring-boot-spring-core/01-constructor-injection/core-demo/pom.xml" />
         <option value="$PROJECT_DIR$/02-spring-boot-spring-core/02-component-scan/scan-demo/pom.xml" />
         <option value="$PROJECT_DIR$/02-spring-boot-spring-core/03-setter-injection/setter-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-spring-core/04-qualifier/qualifier-demo/pom.xml" />
       </list>
     </option>
   </component>
