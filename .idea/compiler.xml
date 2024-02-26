@@ -13,6 +13,7 @@
         <module name="myapp" />
         <module name="property-demo" />
         <module name="security-demo" />
+        <module name="scan-demo" />
       </profile>
     </annotationProcessing>
   </component>
@@ -24,6 +25,7 @@
       <module name="demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
       <module name="property-demo" options="-parameters" />
+      <module name="scan-demo" options="-parameters" />
       <module name="security-demo" options="-parameters" />
     </option>
   </component>
