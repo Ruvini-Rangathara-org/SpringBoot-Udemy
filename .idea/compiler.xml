@@ -10,6 +10,7 @@
         <module name="command-line" />
         <module name="demo" />
         <module name="myapp" />
+        <module name="property-demo" />
         <module name="security-demo" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="command-line" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
+      <module name="property-demo" options="-parameters" />
       <module name="security-demo" options="-parameters" />
     </option>
   </component>
