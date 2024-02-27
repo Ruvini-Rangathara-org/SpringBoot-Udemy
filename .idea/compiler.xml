@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="primary-demo" />
+        <module name="lazy-demo" />
         <module name="actuator-demo" />
         <module name="command-line" />
         <module name="core-demo" />
@@ -26,6 +27,7 @@
       <module name="command-line" options="-parameters" />
       <module name="core-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="lazy-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
       <module name="primary-demo" options="-parameters" />
       <module name="property-demo" options="-parameters" />
