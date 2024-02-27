@@ -18,7 +18,18 @@ public class CrudDemoApplication {
 	public CommandLineRunner commandLineRunner(StudentDao studentDao) {
 		return runner -> {
 			createStudent(studentDao);
+			createMultipleStudents(studentDao);
 		};
+	}
+
+	private void createMultipleStudents(StudentDao studentDao) {
+		Student student1 = new Student("Jane", "Doe", "jane@gmail.com");
+		Student student2 = new Student("Mary", "Doe", "mary@gmail.com");
+		Student student3 = new Student("Tom", "Doe", "tom@gmail.com");
+
+		studentDao.save(student1);
+		studentDao.save(student2);
+		studentDao.save(student3);
 	}
 
 	private void createStudent(StudentDao studentDao) {
