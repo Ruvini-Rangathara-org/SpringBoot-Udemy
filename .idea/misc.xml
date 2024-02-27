@@ -24,6 +24,7 @@
         <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/03-crud-demo-student-query-find-all/find-all-demo/pom.xml" />
         <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/04-crud-demo-student-query-find-by-name/by-name-demo/pom.xml" />
         <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/05-crud-demo-student-update/update-student-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/06-crud-demo-delete-single-student/delete-student-demo/pom.xml" />
       </list>
     </option>
   </component>

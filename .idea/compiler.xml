@@ -22,6 +22,7 @@
         <module name="actuator-demo" />
         <module name="core-demo" />
         <module name="find-all-demo" />
+        <module name="delete-student-demo" />
         <module name="bean-scope-demo" />
         <module name="update-student-demo" />
         <module name="scan-demo" />
@@ -40,6 +41,7 @@
       <module name="core-demo" options="-parameters" />
       <module name="crud-demo" options="-parameters" />
       <module name="crud-read-demo" options="-parameters" />
+      <module name="delete-student-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="find-all-demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
