@@ -21,6 +21,7 @@
         <module name="lazy-demo" />
         <module name="crud-demo" />
         <module name="actuator-demo" />
+        <module name="table-auto-demo" />
         <module name="core-demo" />
         <module name="find-all-demo" />
         <module name="delete-student-demo" />
@@ -55,6 +56,7 @@
       <module name="scan-demo" options="-parameters" />
       <module name="security-demo" options="-parameters" />
       <module name="setter-injection" options="-parameters" />
+      <module name="table-auto-demo" options="-parameters" />
       <module name="update-student-demo" options="-parameters" />
     </option>
   </component>
