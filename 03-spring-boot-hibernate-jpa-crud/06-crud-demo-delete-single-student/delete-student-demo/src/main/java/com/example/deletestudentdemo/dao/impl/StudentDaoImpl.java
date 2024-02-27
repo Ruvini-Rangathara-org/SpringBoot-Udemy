@@ -29,14 +29,16 @@ public class StudentDaoImpl implements StudentDao {
     public void delete(Integer id) {
         Student theStudent = entityManager.find(Student.class, id);
         entityManager.remove(theStudent);
+
     }
 
     @Transactional
     @Override
-    public void deleteByEmail(String email) {
-        entityManager.createQuery("DELETE FROM Student WHERE email=:theEmail")
+    public int deleteByEmail(String email) {
+        int i = entityManager.createQuery("DELETE FROM Student WHERE email=:theEmail")
                 .setParameter("theEmail", email)
                 .executeUpdate();
+        return i;
     }
 
 

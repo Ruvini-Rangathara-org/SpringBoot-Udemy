@@ -19,7 +19,8 @@ public class StudentDaoImpl implements StudentDao {
 
     @Transactional
     @Override
-    public void deleteAll() {
-        entityManager.createQuery("DELETE FROM Student").executeUpdate();
+    public int deleteAll() {
+        int deleteFromStudent = entityManager.createQuery("DELETE FROM Student").executeUpdate();
+        return deleteFromStudent;
     }
 }

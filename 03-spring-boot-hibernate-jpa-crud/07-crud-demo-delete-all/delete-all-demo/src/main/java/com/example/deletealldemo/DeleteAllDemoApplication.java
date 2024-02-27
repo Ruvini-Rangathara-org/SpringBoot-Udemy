@@ -21,7 +21,7 @@ public class DeleteAllDemoApplication {
 	}
 
 	private void deleteAll(StudentDao studentDao) {
-		studentDao.deleteAll();
-		System.out.println("Deleted all students");
+		int i = studentDao.deleteAll();
+		System.out.println("Deleted student count: " + i);
 	}
 }

@@ -24,8 +24,8 @@ public class DeleteStudentDemoApplication {
 
 	private void deleteByEmail(StudentDao studentDao) {
 		String email  = "mary@gmail.com";
-		studentDao.deleteByEmail(email);
-		System.out.println("Deleted student with email : "+email);
+		int i = studentDao.deleteByEmail(email);
+		System.out.println("Deleted student count with email : "+i);
 	}
 
 	private void deleteStudent(StudentDao studentDao) {
