@@ -8,27 +8,28 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="primary-demo" />
-        <module name="command-line" />
-        <module name="life-cycle-demo" />
-        <module name="by-name-demo" />
         <module name="bean-config-demo" />
         <module name="crud-read-demo" />
         <module name="demo" />
         <module name="myapp" />
-        <module name="delete-all-demo" />
-        <module name="property-demo" />
-        <module name="security-demo" />
         <module name="lazy-demo" />
         <module name="crud-demo" />
-        <module name="actuator-demo" />
-        <module name="table-auto-demo" />
-        <module name="core-demo" />
         <module name="find-all-demo" />
-        <module name="delete-student-demo" />
-        <module name="bean-scope-demo" />
         <module name="update-student-demo" />
         <module name="rest-hello-demo" />
         <module name="scan-demo" />
+        <module name="command-line" />
+        <module name="life-cycle-demo" />
+        <module name="by-name-demo" />
+        <module name="delete-all-demo" />
+        <module name="property-demo" />
+        <module name="security-demo" />
+        <module name="rest-student-list-demo" />
+        <module name="actuator-demo" />
+        <module name="table-auto-demo" />
+        <module name="core-demo" />
+        <module name="delete-student-demo" />
+        <module name="bean-scope-demo" />
         <module name="setter-injection" />
         <module name="qualifier-demo" />
       </profile>
@@ -55,6 +56,7 @@
       <module name="property-demo" options="-parameters" />
       <module name="qualifier-demo" options="-parameters" />
       <module name="rest-hello-demo" options="-parameters" />
+      <module name="rest-student-list-demo" options="-parameters" />
       <module name="scan-demo" options="-parameters" />
       <module name="security-demo" options="-parameters" />
       <module name="setter-injection" options="-parameters" />
