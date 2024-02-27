@@ -23,6 +23,7 @@
         <module name="core-demo" />
         <module name="find-all-demo" />
         <module name="bean-scope-demo" />
+        <module name="update-student-demo" />
         <module name="scan-demo" />
         <module name="setter-injection" />
         <module name="qualifier-demo" />
@@ -50,6 +51,7 @@
       <module name="scan-demo" options="-parameters" />
       <module name="security-demo" options="-parameters" />
       <module name="setter-injection" options="-parameters" />
+      <module name="update-student-demo" options="-parameters" />
     </option>
   </component>
 </project>
