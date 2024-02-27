@@ -28,6 +28,7 @@
         <module name="actuator-demo" />
         <module name="table-auto-demo" />
         <module name="core-demo" />
+        <module name="rest-all-student-refacted-demo" />
         <module name="delete-student-demo" />
         <module name="bean-scope-demo" />
         <module name="setter-injection" />
@@ -55,6 +56,7 @@
       <module name="primary-demo" options="-parameters" />
       <module name="property-demo" options="-parameters" />
       <module name="qualifier-demo" options="-parameters" />
+      <module name="rest-all-student-refacted-demo" options="-parameters" />
       <module name="rest-hello-demo" options="-parameters" />
       <module name="rest-student-list-demo" options="-parameters" />
       <module name="scan-demo" options="-parameters" />
