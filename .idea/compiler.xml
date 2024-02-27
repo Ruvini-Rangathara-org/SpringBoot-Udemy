@@ -7,14 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="primary-demo" />
-        <module name="lazy-demo" />
-        <module name="actuator-demo" />
         <module name="command-line" />
-        <module name="core-demo" />
         <module name="demo" />
         <module name="myapp" />
         <module name="property-demo" />
         <module name="security-demo" />
+        <module name="lazy-demo" />
+        <module name="actuator-demo" />
+        <module name="core-demo" />
+        <module name="bean-scope-demo" />
         <module name="scan-demo" />
         <module name="setter-injection" />
         <module name="qualifier-demo" />
@@ -24,6 +25,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="actuator-demo" options="-parameters" />
+      <module name="bean-scope-demo" options="-parameters" />
       <module name="command-line" options="-parameters" />
       <module name="core-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
