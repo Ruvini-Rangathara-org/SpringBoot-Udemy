@@ -27,6 +27,7 @@
         <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/06-crud-demo-delete-single-student/delete-student-demo/pom.xml" />
         <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/07-crud-demo-delete-all/delete-all-demo/pom.xml" />
         <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/08-create-database-table-auto/table-auto-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/01-spring-boot-rest-crud-hello-world/rest-hello-demo/pom.xml" />
       </list>
     </option>
   </component>
