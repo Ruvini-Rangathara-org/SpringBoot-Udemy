@@ -15,6 +15,7 @@
         <module name="property-demo" />
         <module name="security-demo" />
         <module name="lazy-demo" />
+        <module name="crud-demo" />
         <module name="actuator-demo" />
         <module name="core-demo" />
         <module name="bean-scope-demo" />
@@ -31,6 +32,7 @@
       <module name="bean-scope-demo" options="-parameters" />
       <module name="command-line" options="-parameters" />
       <module name="core-demo" options="-parameters" />
+      <module name="crud-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
