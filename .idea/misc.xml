@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/02-spring-boot-spring-core/09-java-config-bean/bean-config-demo/pom.xml" />
         <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/01-crud-demo-student-create/crud-demo/pom.xml" />
         <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/02-crud-demo-student-read/crud-read-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/03-crud-demo-student-query-find-all/find-all-demo/pom.xml" />
       </list>
     </option>
   </component>

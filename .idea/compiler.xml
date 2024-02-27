@@ -20,6 +20,7 @@
         <module name="crud-demo" />
         <module name="actuator-demo" />
         <module name="core-demo" />
+        <module name="find-all-demo" />
         <module name="bean-scope-demo" />
         <module name="scan-demo" />
         <module name="setter-injection" />
@@ -37,6 +38,7 @@
       <module name="crud-demo" options="-parameters" />
       <module name="crud-read-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="find-all-demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
