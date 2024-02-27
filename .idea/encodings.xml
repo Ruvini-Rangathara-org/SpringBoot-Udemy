@@ -22,5 +22,6 @@
     <file url="file://$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/04-crud-demo-student-query-find-by-name/by-name-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/05-crud-demo-student-update/update-student-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/06-crud-demo-delete-single-student/delete-student-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/07-crud-demo-delete-all/delete-all-demo/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -15,6 +15,7 @@
         <module name="crud-read-demo" />
         <module name="demo" />
         <module name="myapp" />
+        <module name="delete-all-demo" />
         <module name="property-demo" />
         <module name="security-demo" />
         <module name="lazy-demo" />
@@ -41,6 +42,7 @@
       <module name="core-demo" options="-parameters" />
       <module name="crud-demo" options="-parameters" />
       <module name="crud-read-demo" options="-parameters" />
+      <module name="delete-all-demo" options="-parameters" />
       <module name="delete-student-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="find-all-demo" options="-parameters" />
