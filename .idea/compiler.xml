@@ -10,6 +10,7 @@
         <module name="primary-demo" />
         <module name="command-line" />
         <module name="life-cycle-demo" />
+        <module name="by-name-demo" />
         <module name="bean-config-demo" />
         <module name="crud-read-demo" />
         <module name="demo" />
@@ -33,6 +34,7 @@
       <module name="actuator-demo" options="-parameters" />
       <module name="bean-config-demo" options="-parameters" />
       <module name="bean-scope-demo" options="-parameters" />
+      <module name="by-name-demo" options="-parameters" />
       <module name="command-line" options="-parameters" />
       <module name="core-demo" options="-parameters" />
       <module name="crud-demo" options="-parameters" />
