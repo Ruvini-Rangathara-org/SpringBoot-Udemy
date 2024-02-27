@@ -9,6 +9,7 @@
         <module name="primary-demo" />
         <module name="command-line" />
         <module name="life-cycle-demo" />
+        <module name="bean-config-demo" />
         <module name="demo" />
         <module name="myapp" />
         <module name="property-demo" />
@@ -26,6 +27,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="actuator-demo" options="-parameters" />
+      <module name="bean-config-demo" options="-parameters" />
       <module name="bean-scope-demo" options="-parameters" />
       <module name="command-line" options="-parameters" />
       <module name="core-demo" options="-parameters" />
