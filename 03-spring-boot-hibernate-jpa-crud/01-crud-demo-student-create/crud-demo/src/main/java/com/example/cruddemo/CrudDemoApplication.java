@@ -23,6 +23,9 @@ public class CrudDemoApplication {
 	}
 
 	private void createMultipleStudents(StudentDao studentDao) {
+		//query for start auto increment from 3000
+//		alter table student_tracker.student auto_increment=3000;
+
 		Student student1 = new Student("Jane", "Doe", "jane@gmail.com");
 		Student student2 = new Student("Mary", "Doe", "mary@gmail.com");
 		Student student3 = new Student("Tom", "Doe", "tom@gmail.com");

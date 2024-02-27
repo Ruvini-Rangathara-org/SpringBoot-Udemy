@@ -11,6 +11,7 @@
         <module name="command-line" />
         <module name="life-cycle-demo" />
         <module name="bean-config-demo" />
+        <module name="crud-read-demo" />
         <module name="demo" />
         <module name="myapp" />
         <module name="property-demo" />
@@ -34,6 +35,7 @@
       <module name="command-line" options="-parameters" />
       <module name="core-demo" options="-parameters" />
       <module name="crud-demo" options="-parameters" />
+      <module name="crud-read-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
