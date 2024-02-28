@@ -31,6 +31,7 @@
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/02-spring-boot-rest-crud-students-list-base/rest-student-list-demo/pom.xml" />
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/03-spring-boot-rest-crud-student-list-refacted/rest-all-student-refacted-demo/pom.xml" />
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/04-spring-boot-rest-crud-students-path-variable-get-single-student/id-from-path-variable-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/05-spring-boot-rest-crud-students-exception-handling/exception-demo/pom.xml" />
       </list>
     </option>
   </component>
