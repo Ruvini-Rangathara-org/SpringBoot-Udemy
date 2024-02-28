@@ -32,6 +32,7 @@
         <module name="table-auto-demo" />
         <module name="core-demo" />
         <module name="rest-all-student-refacted-demo" />
+        <module name="employee-demo" />
         <module name="delete-student-demo" />
         <module name="bean-scope-demo" />
         <module name="setter-injection" />
@@ -52,6 +53,7 @@
       <module name="delete-all-demo" options="-parameters" />
       <module name="delete-student-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="employee-demo" options="-parameters" />
       <module name="exception-demo" options="-parameters" />
       <module name="find-all-demo" options="-parameters" />
       <module name="global-exception-demo" options="-parameters" />
