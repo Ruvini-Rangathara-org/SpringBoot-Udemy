@@ -27,6 +27,7 @@
         <module name="delete-all-demo" />
         <module name="property-demo" />
         <module name="security-demo" />
+        <module name="crud-employee-demo" />
         <module name="get-all-with-service-demo" />
         <module name="rest-student-list-demo" />
         <module name="actuator-demo" />
@@ -50,6 +51,7 @@
       <module name="command-line" options="-parameters" />
       <module name="core-demo" options="-parameters" />
       <module name="crud-demo" options="-parameters" />
+      <module name="crud-employee-demo" options="-parameters" />
       <module name="crud-read-demo" options="-parameters" />
       <module name="delete-all-demo" options="-parameters" />
       <module name="delete-student-demo" options="-parameters" />
