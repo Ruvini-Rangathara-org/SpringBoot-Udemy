@@ -41,6 +41,7 @@
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/12-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting/data-rest-config-demo/pom.xml" />
         <option value="$PROJECT_DIR$/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/pom.xml" />
         <option value="$PROJECT_DIR$/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/security-starter-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-rest-security/01-spring-boot-rest-security-basic/secuirity-basic-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
