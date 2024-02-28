@@ -19,6 +19,7 @@
         <module name="update-student-demo" />
         <module name="rest-hello-demo" />
         <module name="scan-demo" />
+        <module name="security-starter-demo" />
         <module name="command-line" />
         <module name="id-from-path-variable-demo" />
         <module name="life-cycle-demo" />
@@ -44,6 +45,9 @@
         <module name="qualifier-demo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cruddemo" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -57,6 +61,7 @@
       <module name="crud-employee-demo" options="-parameters" />
       <module name="crud-read-demo" options="-parameters" />
       <module name="crud-with-jpa-demo" options="-parameters" />
+      <module name="cruddemo" options="-parameters" />
       <module name="data-rest-config-demo" options="-parameters" />
       <module name="data-rest-demo" options="-parameters" />
       <module name="delete-all-demo" options="-parameters" />
@@ -79,6 +84,7 @@
       <module name="rest-student-list-demo" options="-parameters" />
       <module name="scan-demo" options="-parameters" />
       <module name="security-demo" options="-parameters" />
+      <module name="security-starter-demo" options="-parameters" />
       <module name="setter-injection" options="-parameters" />
       <module name="table-auto-demo" options="-parameters" />
       <module name="update-student-demo" options="-parameters" />
