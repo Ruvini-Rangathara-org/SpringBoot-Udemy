@@ -38,6 +38,7 @@
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/09-spring-boot-rest-crud-employee-dao-find-add-update-delete/crud-employee-demo/pom.xml" />
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/10-spring-boot-rest-crud-employee-with-spring-data-jpa/crud-with-jpa-demo/pom.xml" />
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/11-spring-boot-rest-crud-employee-with-spring-data-rest/data-rest-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/12-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting/data-rest-config-demo/pom.xml" />
       </list>
     </option>
   </component>
