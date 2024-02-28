@@ -36,6 +36,7 @@
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/07-spring-boot-rest-crud-employee-list-employees/employee-demo/pom.xml" />
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/08-spring-boot-rest-crud-employee-refactored-service-layer/get-all-with-service-demo/pom.xml" />
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/09-spring-boot-rest-crud-employee-dao-find-add-update-delete/crud-employee-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/10-spring-boot-rest-crud-employee-with-spring-data-jpa/crud-with-jpa-demo/pom.xml" />
       </list>
     </option>
   </component>
