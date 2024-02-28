@@ -34,6 +34,7 @@
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/05-spring-boot-rest-crud-students-exception-handling/exception-demo/pom.xml" />
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/06-spring-boot-rest-crud-students-global-exception-handling/global-exception-demo/pom.xml" />
         <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/07-spring-boot-rest-crud-employee-list-employees/employee-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud/08-spring-boot-rest-crud-employee-refactored-service-layer/get-all-with-service-demo/pom.xml" />
       </list>
     </option>
   </component>
