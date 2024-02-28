@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="primary-demo" />
+        <module name="global-exception-demo" />
         <module name="bean-config-demo" />
         <module name="crud-read-demo" />
         <module name="demo" />
@@ -53,6 +54,7 @@
       <module name="demo" options="-parameters" />
       <module name="exception-demo" options="-parameters" />
       <module name="find-all-demo" options="-parameters" />
+      <module name="global-exception-demo" options="-parameters" />
       <module name="id-from-path-variable-demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
