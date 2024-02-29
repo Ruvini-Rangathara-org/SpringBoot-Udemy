@@ -45,6 +45,7 @@
         <option value="$PROJECT_DIR$/05-spring-boot-rest-security/02-spring-boot-rest-security-restrict-access-based-on-roles/security-role-demo/pom.xml" />
         <option value="$PROJECT_DIR$/05-spring-boot-rest-security/03-spring-boot-rest-security-jdbc-plain-text/jdbc-secuirity-demo/pom.xml" />
         <option value="$PROJECT_DIR$/05-spring-boot-rest-security/04-spring-boot-rest-security-jdbc-bcrypt-custom-table-names/jdbc-security-custom-table-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/01-thymeleaf-hello-world/thymeleaf-hello-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

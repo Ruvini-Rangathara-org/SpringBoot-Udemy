@@ -10,6 +10,7 @@
         <module name="primary-demo" />
         <module name="global-exception-demo" />
         <module name="bean-config-demo" />
+        <module name="thymeleaf-hello-demo" />
         <module name="crud-read-demo" />
         <module name="demo" />
         <module name="myapp" />
@@ -95,6 +96,7 @@
       <module name="security-starter-demo" options="-parameters" />
       <module name="setter-injection" options="-parameters" />
       <module name="table-auto-demo" options="-parameters" />
+      <module name="thymeleaf-hello-demo" options="-parameters" />
       <module name="update-student-demo" options="-parameters" />
     </option>
   </component>
