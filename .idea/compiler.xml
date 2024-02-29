@@ -44,6 +44,7 @@
         <module name="data-rest-demo" />
         <module name="bean-scope-demo" />
         <module name="crud-with-jpa-demo" />
+        <module name="jdbc-security-custom-table-demo" />
         <module name="setter-injection" />
         <module name="qualifier-demo" />
       </profile>
@@ -77,6 +78,7 @@
       <module name="global-exception-demo" options="-parameters" />
       <module name="id-from-path-variable-demo" options="-parameters" />
       <module name="jdbc-secuirity-demo" options="-parameters" />
+      <module name="jdbc-security-custom-table-demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
