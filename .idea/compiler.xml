@@ -29,6 +29,7 @@
         <module name="by-name-demo" />
         <module name="exception-demo" />
         <module name="delete-all-demo" />
+        <module name="data-to-model-demo" />
         <module name="property-demo" />
         <module name="security-demo" />
         <module name="crud-employee-demo" />
@@ -70,6 +71,7 @@
       <module name="cruddemo" options="-parameters" />
       <module name="data-rest-config-demo" options="-parameters" />
       <module name="data-rest-demo" options="-parameters" />
+      <module name="data-to-model-demo" options="-parameters" />
       <module name="delete-all-demo" options="-parameters" />
       <module name="delete-student-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
