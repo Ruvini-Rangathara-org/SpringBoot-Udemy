@@ -42,6 +42,7 @@
         <option value="$PROJECT_DIR$/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/pom.xml" />
         <option value="$PROJECT_DIR$/05-spring-boot-rest-security/00-spring-boot-rest-security-employee-starter-code/security-starter-demo/pom.xml" />
         <option value="$PROJECT_DIR$/05-spring-boot-rest-security/01-spring-boot-rest-security-basic/secuirity-basic-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-rest-security/02-spring-boot-rest-security-restrict-access-based-on-roles/security-role-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

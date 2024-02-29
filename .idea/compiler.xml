@@ -37,6 +37,7 @@
         <module name="rest-all-student-refacted-demo" />
         <module name="employee-demo" />
         <module name="secuirity-basic-demo" />
+        <module name="security-role-demo" />
         <module name="data-rest-config-demo" />
         <module name="delete-student-demo" />
         <module name="data-rest-demo" />
@@ -86,6 +87,7 @@
       <module name="scan-demo" options="-parameters" />
       <module name="secuirity-basic-demo" options="-parameters" />
       <module name="security-demo" options="-parameters" />
+      <module name="security-role-demo" options="-parameters" />
       <module name="security-starter-demo" options="-parameters" />
       <module name="setter-injection" options="-parameters" />
       <module name="table-auto-demo" options="-parameters" />
