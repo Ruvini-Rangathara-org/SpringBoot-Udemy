@@ -1,6 +1,5 @@
-package com.example.bindingrequestparamdemo.controller;
+package com.example.postgetdemo.controller;
 
-import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -17,7 +16,7 @@ public class MyController {
         return "show-form";
     }
 
-    @GetMapping("/process")
+    @PostMapping("/process")
     public String processForm2(@RequestParam("name") String name, Model model) {
 
         name = name.toUpperCase();

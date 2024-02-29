@@ -28,6 +28,7 @@
         <module name="id-from-path-variable-demo" />
         <module name="life-cycle-demo" />
         <module name="by-name-demo" />
+        <module name="post-get-demo" />
         <module name="exception-demo" />
         <module name="delete-all-demo" />
         <module name="data-to-model-demo" />
@@ -88,6 +89,7 @@
       <module name="lazy-demo" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
+      <module name="post-get-demo" options="-parameters" />
       <module name="primary-demo" options="-parameters" />
       <module name="property-demo" options="-parameters" />
       <module name="qualifier-demo" options="-parameters" />
