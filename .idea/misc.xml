@@ -48,6 +48,7 @@
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/01-thymeleaf-hello-world/thymeleaf-hello-demo/pom.xml" />
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/02-reading-html-form-data/thymeleaf-form-data-demo/pom.xml" />
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/03-adding-data-to-the-model/data-to-model-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/04-binding-request-params/binding-request-param-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

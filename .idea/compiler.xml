@@ -10,6 +10,7 @@
         <module name="primary-demo" />
         <module name="thymeleaf-form-data-demo" />
         <module name="global-exception-demo" />
+        <module name="binding-request-param-demo" />
         <module name="bean-config-demo" />
         <module name="thymeleaf-hello-demo" />
         <module name="crud-read-demo" />
@@ -61,6 +62,7 @@
       <module name="actuator-demo" options="-parameters" />
       <module name="bean-config-demo" options="-parameters" />
       <module name="bean-scope-demo" options="-parameters" />
+      <module name="binding-request-param-demo" options="-parameters" />
       <module name="by-name-demo" options="-parameters" />
       <module name="command-line" options="-parameters" />
       <module name="core-demo" options="-parameters" />
