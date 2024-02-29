@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="primary-demo" />
+        <module name="thymeleaf-form-data-demo" />
         <module name="global-exception-demo" />
         <module name="bean-config-demo" />
         <module name="thymeleaf-hello-demo" />
@@ -96,6 +97,7 @@
       <module name="security-starter-demo" options="-parameters" />
       <module name="setter-injection" options="-parameters" />
       <module name="table-auto-demo" options="-parameters" />
+      <module name="thymeleaf-form-data-demo" options="-parameters" />
       <module name="thymeleaf-hello-demo" options="-parameters" />
       <module name="update-student-demo" options="-parameters" />
     </option>
