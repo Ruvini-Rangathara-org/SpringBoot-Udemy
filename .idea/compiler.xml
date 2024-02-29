@@ -19,6 +19,7 @@
         <module name="update-student-demo" />
         <module name="rest-hello-demo" />
         <module name="scan-demo" />
+        <module name="jdbc-secuirity-demo" />
         <module name="security-starter-demo" />
         <module name="command-line" />
         <module name="id-from-path-variable-demo" />
@@ -75,6 +76,7 @@
       <module name="get-all-with-service-demo" options="-parameters" />
       <module name="global-exception-demo" options="-parameters" />
       <module name="id-from-path-variable-demo" options="-parameters" />
+      <module name="jdbc-secuirity-demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
