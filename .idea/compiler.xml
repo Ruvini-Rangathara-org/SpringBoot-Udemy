@@ -18,6 +18,7 @@
         <module name="myapp" />
         <module name="lazy-demo" />
         <module name="crud-demo" />
+        <module name="text-field-demo" />
         <module name="find-all-demo" />
         <module name="update-student-demo" />
         <module name="rest-hello-demo" />
@@ -103,6 +104,7 @@
       <module name="security-starter-demo" options="-parameters" />
       <module name="setter-injection" options="-parameters" />
       <module name="table-auto-demo" options="-parameters" />
+      <module name="text-field-demo" options="-parameters" />
       <module name="thymeleaf-form-data-demo" options="-parameters" />
       <module name="thymeleaf-hello-demo" options="-parameters" />
       <module name="update-student-demo" options="-parameters" />
