@@ -31,6 +31,7 @@
         <module name="by-name-demo" />
         <module name="post-get-demo" />
         <module name="exception-demo" />
+        <module name="drop-down-demo" />
         <module name="delete-all-demo" />
         <module name="data-to-model-demo" />
         <module name="property-demo" />
@@ -79,6 +80,7 @@
       <module name="delete-all-demo" options="-parameters" />
       <module name="delete-student-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="drop-down-demo" options="-parameters" />
       <module name="employee-demo" options="-parameters" />
       <module name="exception-demo" options="-parameters" />
       <module name="find-all-demo" options="-parameters" />

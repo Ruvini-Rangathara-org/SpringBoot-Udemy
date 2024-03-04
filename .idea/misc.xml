@@ -51,6 +51,7 @@
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/04-binding-request-params/binding-request-param-demo/pom.xml" />
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/05-getmapping-and-postmapping/post-get-demo/pom.xml" />
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/06-form-data-binding-textfields/text-field-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/07-form-data-binding-dropdown-list-basic/drop-down-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
