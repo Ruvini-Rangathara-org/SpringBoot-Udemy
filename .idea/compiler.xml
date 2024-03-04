@@ -51,6 +51,7 @@
         <module name="data-rest-demo" />
         <module name="bean-scope-demo" />
         <module name="crud-with-jpa-demo" />
+        <module name="drop-down-with-prop-demo" />
         <module name="jdbc-security-custom-table-demo" />
         <module name="setter-injection" />
         <module name="qualifier-demo" />
@@ -81,6 +82,7 @@
       <module name="delete-student-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="drop-down-demo" options="-parameters" />
+      <module name="drop-down-with-prop-demo" options="-parameters" />
       <module name="employee-demo" options="-parameters" />
       <module name="exception-demo" options="-parameters" />
       <module name="find-all-demo" options="-parameters" />

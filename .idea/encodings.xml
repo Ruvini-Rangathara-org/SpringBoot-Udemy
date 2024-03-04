@@ -49,5 +49,6 @@
     <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/05-getmapping-and-postmapping/post-get-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/06-form-data-binding-textfields/text-field-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/07-form-data-binding-dropdown-list-basic/drop-down-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-boot-spring-mvc/08-form-data-binding-dropdown-list-read-from-props-file/drop-down-with-prop-demo/src/main/java" charset="UTF-8" />
   </component>
 </project>
