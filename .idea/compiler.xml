@@ -10,47 +10,48 @@
         <module name="primary-demo" />
         <module name="thymeleaf-form-data-demo" />
         <module name="global-exception-demo" />
-        <module name="binding-request-param-demo" />
-        <module name="bean-config-demo" />
-        <module name="thymeleaf-hello-demo" />
         <module name="crud-read-demo" />
-        <module name="demo" />
-        <module name="myapp" />
         <module name="lazy-demo" />
-        <module name="crud-demo" />
-        <module name="text-field-demo" />
-        <module name="find-all-demo" />
-        <module name="update-student-demo" />
-        <module name="rest-hello-demo" />
-        <module name="scan-demo" />
         <module name="jdbc-secuirity-demo" />
-        <module name="security-starter-demo" />
-        <module name="command-line" />
         <module name="id-from-path-variable-demo" />
         <module name="life-cycle-demo" />
         <module name="by-name-demo" />
-        <module name="post-get-demo" />
         <module name="exception-demo" />
+        <module name="property-demo" />
+        <module name="actuator-demo" />
+        <module name="data-rest-config-demo" />
+        <module name="crud-with-jpa-demo" />
+        <module name="binding-request-param-demo" />
+        <module name="bean-config-demo" />
+        <module name="thymeleaf-hello-demo" />
+        <module name="demo" />
+        <module name="myapp" />
+        <module name="crud-demo" />
+        <module name="text-field-demo" />
+        <module name="find-all-demo" />
+        <module name="radio-basic-demo" />
+        <module name="update-student-demo" />
+        <module name="rest-hello-demo" />
+        <module name="scan-demo" />
+        <module name="security-starter-demo" />
+        <module name="command-line" />
+        <module name="post-get-demo" />
         <module name="drop-down-demo" />
         <module name="delete-all-demo" />
         <module name="data-to-model-demo" />
-        <module name="property-demo" />
         <module name="security-demo" />
         <module name="crud-employee-demo" />
         <module name="get-all-with-service-demo" />
         <module name="rest-student-list-demo" />
-        <module name="actuator-demo" />
         <module name="table-auto-demo" />
         <module name="core-demo" />
         <module name="rest-all-student-refacted-demo" />
         <module name="employee-demo" />
         <module name="secuirity-basic-demo" />
         <module name="security-role-demo" />
-        <module name="data-rest-config-demo" />
         <module name="delete-student-demo" />
         <module name="data-rest-demo" />
         <module name="bean-scope-demo" />
-        <module name="crud-with-jpa-demo" />
         <module name="drop-down-with-prop-demo" />
         <module name="jdbc-security-custom-table-demo" />
         <module name="setter-injection" />
@@ -98,6 +99,7 @@
       <module name="primary-demo" options="-parameters" />
       <module name="property-demo" options="-parameters" />
       <module name="qualifier-demo" options="-parameters" />
+      <module name="radio-basic-demo" options="-parameters" />
       <module name="rest-all-student-refacted-demo" options="-parameters" />
       <module name="rest-hello-demo" options="-parameters" />
       <module name="rest-student-list-demo" options="-parameters" />
