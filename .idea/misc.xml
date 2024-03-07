@@ -56,6 +56,7 @@
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/09-form-data-binding-radio-buttons-basic/radio-basic-demo/pom.xml" />
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/10-form-data-binding-radio-buttons-read-from-props-file/radio-button-prop-demo/pom.xml" />
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/11-form-data-binding-checkboxes-basic/checkbox-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/12-form-data-binding-checkboxes-read-from-props-file/check-box-prop-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
