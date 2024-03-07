@@ -16,6 +16,7 @@
         <module name="id-from-path-variable-demo" />
         <module name="life-cycle-demo" />
         <module name="by-name-demo" />
+        <module name="checkbox-demo" />
         <module name="exception-demo" />
         <module name="property-demo" />
         <module name="actuator-demo" />
@@ -70,6 +71,7 @@
       <module name="bean-scope-demo" options="-parameters" />
       <module name="binding-request-param-demo" options="-parameters" />
       <module name="by-name-demo" options="-parameters" />
+      <module name="checkbox-demo" options="-parameters" />
       <module name="command-line" options="-parameters" />
       <module name="core-demo" options="-parameters" />
       <module name="crud-demo" options="-parameters" />
