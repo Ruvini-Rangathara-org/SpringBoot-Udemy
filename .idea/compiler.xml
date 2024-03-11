@@ -13,6 +13,7 @@
         <module name="crud-read-demo" />
         <module name="lazy-demo" />
         <module name="custom-validation-demo" />
+        <module name="mvc-crud-demo" />
         <module name="jdbc-secuirity-demo" />
         <module name="id-from-path-variable-demo" />
         <module name="life-cycle-demo" />
@@ -102,6 +103,7 @@
       <module name="jdbc-security-custom-table-demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
+      <module name="mvc-crud-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
       <module name="post-get-demo" options="-parameters" />
       <module name="primary-demo" options="-parameters" />

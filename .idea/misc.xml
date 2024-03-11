@@ -59,6 +59,7 @@
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/12-form-data-binding-checkboxes-read-from-props-file/check-box-prop-demo/pom.xml" />
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/13-validationdemo-required-fields/validation-demo/pom.xml" />
         <option value="$PROJECT_DIR$/06-spring-boot-spring-mvc/14-validationdemo-custom-validation-rule/custom-validation-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/01-spring-mvc-starter/mvc-crud-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
