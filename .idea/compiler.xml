@@ -22,6 +22,7 @@
         <module name="actuator-demo" />
         <module name="data-rest-config-demo" />
         <module name="crud-with-jpa-demo" />
+        <module name="validation-demo" />
         <module name="binding-request-param-demo" />
         <module name="bean-config-demo" />
         <module name="thymeleaf-hello-demo" />
@@ -120,6 +121,7 @@
       <module name="thymeleaf-form-data-demo" options="-parameters" />
       <module name="thymeleaf-hello-demo" options="-parameters" />
       <module name="update-student-demo" options="-parameters" />
+      <module name="validation-demo" options="-parameters" />
     </option>
   </component>
 </project>
