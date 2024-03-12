@@ -23,6 +23,7 @@
         <module name="property-demo" />
         <module name="actuator-demo" />
         <module name="data-rest-config-demo" />
+        <module name="mvc-delete-demo" />
         <module name="crud-with-jpa-demo" />
         <module name="validation-demo" />
         <module name="binding-request-param-demo" />
@@ -107,6 +108,7 @@
       <module name="lazy-demo" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
       <module name="mvc-crud-demo" options="-parameters" />
+      <module name="mvc-delete-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
       <module name="post-get-demo" options="-parameters" />
       <module name="primary-demo" options="-parameters" />
