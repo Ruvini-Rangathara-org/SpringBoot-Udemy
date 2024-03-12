@@ -35,6 +35,7 @@
         <module name="find-all-demo" />
         <module name="radio-basic-demo" />
         <module name="update-student-demo" />
+        <module name="update-emp-demo" />
         <module name="rest-hello-demo" />
         <module name="scan-demo" />
         <module name="security-starter-demo" />
@@ -126,6 +127,7 @@
       <module name="text-field-demo" options="-parameters" />
       <module name="thymeleaf-form-data-demo" options="-parameters" />
       <module name="thymeleaf-hello-demo" options="-parameters" />
+      <module name="update-emp-demo" options="-parameters" />
       <module name="update-student-demo" options="-parameters" />
       <module name="validation-demo" options="-parameters" />
     </option>
