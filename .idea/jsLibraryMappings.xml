@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
-    <file url="file://$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/01-spring-mvc-starter/mvc-crud-demo" libraries="{bootstrap}" />
+    <file url="file://$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/01-spring-mvc-employee-list/mvc-crud-demo" libraries="{bootstrap}" />
   </component>
 </project>
