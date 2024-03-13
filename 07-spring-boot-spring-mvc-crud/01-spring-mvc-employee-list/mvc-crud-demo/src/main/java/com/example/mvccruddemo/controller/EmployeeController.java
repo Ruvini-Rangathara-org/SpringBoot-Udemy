@@ -12,13 +12,10 @@ import java.util.List;
 @Controller
 @RequestMapping("/employees")
 public class EmployeeController {
-
     private final EmployeeService employeeService;
-
     public EmployeeController(EmployeeService theEmployeeService) {
         employeeService = theEmployeeService;
     }
-
     // add mapping for GET /employees
     @GetMapping("/list")
     public String listEmployees(Model theModel) {
@@ -26,6 +23,5 @@ public class EmployeeController {
         theModel.addAttribute("employees", theEmployees);
         return "employee/list-employees";
     }
-
-
 }
+

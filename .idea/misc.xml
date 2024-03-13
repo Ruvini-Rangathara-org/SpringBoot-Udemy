@@ -64,6 +64,7 @@
         <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/01-spring-mvc-employee-list/mvc-crud-demo/pom.xml" />
         <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/03-spring-mvc-employee-update/update-emp-demo/pom.xml" />
         <option value="$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/04-spring-mvc-employee-delete/mvc-delete-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-spring-mvc-security-default/mvc-sec-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

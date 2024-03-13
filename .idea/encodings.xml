@@ -60,5 +60,6 @@
     <file url="file://$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/02-spring-mvc-employee-add/add-emp-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/03-spring-mvc-employee-update/update-emp-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/07-spring-boot-spring-mvc-crud/04-spring-mvc-employee-delete/mvc-delete-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-spring-mvc-security-default/mvc-sec-demo/src/main/java" charset="UTF-8" />
   </component>
 </project>

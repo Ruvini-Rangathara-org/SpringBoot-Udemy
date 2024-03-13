@@ -42,6 +42,7 @@
         <module name="security-starter-demo" />
         <module name="check-box-prop-demo" />
         <module name="command-line" />
+        <module name="mvc-sec-demo" />
         <module name="post-get-demo" />
         <module name="drop-down-demo" />
         <module name="delete-all-demo" />
@@ -109,6 +110,7 @@
       <module name="life-cycle-demo" options="-parameters" />
       <module name="mvc-crud-demo" options="-parameters" />
       <module name="mvc-delete-demo" options="-parameters" />
+      <module name="mvc-sec-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
       <module name="post-get-demo" options="-parameters" />
       <module name="primary-demo" options="-parameters" />
