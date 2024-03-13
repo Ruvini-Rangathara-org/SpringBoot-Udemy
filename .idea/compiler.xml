@@ -39,6 +39,7 @@
         <module name="update-emp-demo" />
         <module name="rest-hello-demo" />
         <module name="scan-demo" />
+        <module name="custom-login-form-demo" />
         <module name="security-starter-demo" />
         <module name="check-box-prop-demo" />
         <module name="command-line" />
@@ -89,6 +90,7 @@
       <module name="crud-read-demo" options="-parameters" />
       <module name="crud-with-jpa-demo" options="-parameters" />
       <module name="cruddemo" options="-parameters" />
+      <module name="custom-login-form-demo" options="-parameters" />
       <module name="custom-validation-demo" options="-parameters" />
       <module name="data-rest-config-demo" options="-parameters" />
       <module name="data-rest-demo" options="-parameters" />
