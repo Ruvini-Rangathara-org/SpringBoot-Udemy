@@ -18,6 +18,7 @@
         <module name="jdbc-secuirity-demo" />
         <module name="id-from-path-variable-demo" />
         <module name="life-cycle-demo" />
+        <module name="display-content-role-base-demo" />
         <module name="by-name-demo" />
         <module name="checkbox-demo" />
         <module name="exception-demo" />
@@ -100,6 +101,7 @@
       <module name="delete-all-demo" options="-parameters" />
       <module name="delete-student-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="display-content-role-base-demo" options="-parameters" />
       <module name="drop-down-demo" options="-parameters" />
       <module name="drop-down-with-prop-demo" options="-parameters" />
       <module name="employee-demo" options="-parameters" />
