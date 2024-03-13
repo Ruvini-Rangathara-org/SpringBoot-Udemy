@@ -70,6 +70,7 @@
         <option value="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/04-spring-boot-spring-mvc-restrict-url-base-on-role/restrict-on-url-demo/pom.xml" />
         <option value="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/05-spring-boot-spring-mvc-display-content-on-role/display-content-role-base-demo/pom.xml" />
         <option value="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/06-spring-boot-spring-mvc-jdbc-authentication-plian-text/jdbs-authentication-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/07-spring-boot-spring-mvc-security-bcrypt/jdbc-bcrypt-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -49,6 +49,7 @@
         <module name="command-line" />
         <module name="mvc-sec-demo" />
         <module name="post-get-demo" />
+        <module name="jdbc-bcrypt-demo" />
         <module name="drop-down-demo" />
         <module name="delete-all-demo" />
         <module name="data-to-model-demo" />
@@ -111,6 +112,7 @@
       <module name="get-all-with-service-demo" options="-parameters" />
       <module name="global-exception-demo" options="-parameters" />
       <module name="id-from-path-variable-demo" options="-parameters" />
+      <module name="jdbc-bcrypt-demo" options="-parameters" />
       <module name="jdbc-secuirity-demo" options="-parameters" />
       <module name="jdbc-security-custom-table-demo" options="-parameters" />
       <module name="jdbs-authentication-demo" options="-parameters" />
