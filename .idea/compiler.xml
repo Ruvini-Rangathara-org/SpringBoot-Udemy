@@ -14,6 +14,7 @@
         <module name="lazy-demo" />
         <module name="custom-validation-demo" />
         <module name="logout-demo" />
+        <module name="custom-table-sec-demo" />
         <module name="jdbs-authentication-demo" />
         <module name="mvc-crud-demo" />
         <module name="jdbc-secuirity-demo" />
@@ -96,6 +97,7 @@
       <module name="crud-with-jpa-demo" options="-parameters" />
       <module name="cruddemo" options="-parameters" />
       <module name="custom-login-form-demo" options="-parameters" />
+      <module name="custom-table-sec-demo" options="-parameters" />
       <module name="custom-validation-demo" options="-parameters" />
       <module name="data-rest-config-demo" options="-parameters" />
       <module name="data-rest-demo" options="-parameters" />
