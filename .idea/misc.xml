@@ -67,6 +67,7 @@
         <option value="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/01-spring-boot-spring-mvc-security-default/mvc-sec-demo/pom.xml" />
         <option value="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/02-spring-boot-spring-mvc-security-custom-login-plain/custom-login-form-demo/pom.xml" />
         <option value="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/03-spring-boot-spring-mvc-security-logout/logout-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/08-spring-boot-spring-mvc-security/04-spring-boot-spring-mvc-restrict-url-base-on-role/restrict-on-url-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

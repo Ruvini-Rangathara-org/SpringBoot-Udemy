@@ -39,6 +39,7 @@
         <module name="update-student-demo" />
         <module name="update-emp-demo" />
         <module name="rest-hello-demo" />
+        <module name="restrict-on-url-demo" />
         <module name="scan-demo" />
         <module name="custom-login-form-demo" />
         <module name="security-starter-demo" />
@@ -125,6 +126,7 @@
       <module name="rest-all-student-refacted-demo" options="-parameters" />
       <module name="rest-hello-demo" options="-parameters" />
       <module name="rest-student-list-demo" options="-parameters" />
+      <module name="restrict-on-url-demo" options="-parameters" />
       <module name="scan-demo" options="-parameters" />
       <module name="secuirity-basic-demo" options="-parameters" />
       <module name="security-demo" options="-parameters" />
