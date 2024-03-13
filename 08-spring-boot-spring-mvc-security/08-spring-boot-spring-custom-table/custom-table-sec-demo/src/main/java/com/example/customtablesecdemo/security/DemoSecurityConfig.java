@@ -80,5 +80,8 @@ public class DemoSecurityConfig {
     }
 
 
+    // john -> fun123
+    // mary -> fun123
+    // susan -> fun123
 
 }
