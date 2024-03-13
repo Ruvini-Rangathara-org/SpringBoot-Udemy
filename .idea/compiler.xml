@@ -14,6 +14,7 @@
         <module name="lazy-demo" />
         <module name="custom-validation-demo" />
         <module name="logout-demo" />
+        <module name="jdbs-authentication-demo" />
         <module name="mvc-crud-demo" />
         <module name="jdbc-secuirity-demo" />
         <module name="id-from-path-variable-demo" />
@@ -112,6 +113,7 @@
       <module name="id-from-path-variable-demo" options="-parameters" />
       <module name="jdbc-secuirity-demo" options="-parameters" />
       <module name="jdbc-security-custom-table-demo" options="-parameters" />
+      <module name="jdbs-authentication-demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
       <module name="logout-demo" options="-parameters" />
