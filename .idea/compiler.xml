@@ -30,6 +30,7 @@
         <module name="mvc-delete-demo" />
         <module name="crud-with-jpa-demo" />
         <module name="validation-demo" />
+        <module name="one-to-one-create" />
         <module name="binding-request-param-demo" />
         <module name="bean-config-demo" />
         <module name="thymeleaf-hello-demo" />
@@ -77,6 +78,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cruddemo" target="17" />
+      <module name="one-to-one-create-demo" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -125,6 +127,8 @@
       <module name="mvc-delete-demo" options="-parameters" />
       <module name="mvc-sec-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
+      <module name="one-to-one-create" options="-parameters" />
+      <module name="one-to-one-create-demo" options="-parameters" />
       <module name="post-get-demo" options="-parameters" />
       <module name="primary-demo" options="-parameters" />
       <module name="property-demo" options="-parameters" />
