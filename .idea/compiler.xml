@@ -25,6 +25,7 @@
         <module name="by-name-demo" />
         <module name="checkbox-demo" />
         <module name="exception-demo" />
+        <module name="one-to-one-delete" />
         <module name="property-demo" />
         <module name="actuator-demo" />
         <module name="data-rest-config-demo" />
@@ -130,6 +131,7 @@
       <module name="myapp" options="-parameters" />
       <module name="one-to-one-create" options="-parameters" />
       <module name="one-to-one-create-demo" options="-parameters" />
+      <module name="one-to-one-delete" options="-parameters" />
       <module name="one-to-one-find" options="-parameters" />
       <module name="post-get-demo" options="-parameters" />
       <module name="primary-demo" options="-parameters" />

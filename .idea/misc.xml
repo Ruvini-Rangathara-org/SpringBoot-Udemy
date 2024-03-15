@@ -75,6 +75,7 @@
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/01-jpa-one-to-one-uni-create-instructor/one-to-one-create-demo/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/01-jpa-one-to-one-uni-create-instructor/one-to-one-create/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/02-jpa-one-to-one-uni-find/one-to-one-find/pom.xml" />
+        <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/03-jpa-one-to-one-delete-instructor/one-to-one-delete/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
