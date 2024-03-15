@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="primary-demo" />
+        <module name="one-to-one-find" />
         <module name="thymeleaf-form-data-demo" />
         <module name="global-exception-demo" />
         <module name="crud-read-demo" />
@@ -129,6 +130,7 @@
       <module name="myapp" options="-parameters" />
       <module name="one-to-one-create" options="-parameters" />
       <module name="one-to-one-create-demo" options="-parameters" />
+      <module name="one-to-one-find" options="-parameters" />
       <module name="post-get-demo" options="-parameters" />
       <module name="primary-demo" options="-parameters" />
       <module name="property-demo" options="-parameters" />
