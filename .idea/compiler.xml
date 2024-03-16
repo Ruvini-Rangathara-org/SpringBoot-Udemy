@@ -67,6 +67,7 @@
         <module name="employee-demo" />
         <module name="secuirity-basic-demo" />
         <module name="security-role-demo" />
+        <module name="one-to-one-bi" />
         <module name="delete-student-demo" />
         <module name="data-rest-demo" />
         <module name="add-emp-demo" />
@@ -129,6 +130,7 @@
       <module name="mvc-delete-demo" options="-parameters" />
       <module name="mvc-sec-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
+      <module name="one-to-one-bi" options="-parameters" />
       <module name="one-to-one-create" options="-parameters" />
       <module name="one-to-one-create-demo" options="-parameters" />
       <module name="one-to-one-delete" options="-parameters" />
