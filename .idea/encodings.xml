@@ -73,5 +73,7 @@
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/02-jpa-one-to-one-uni-find/one-to-one-find/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/03-jpa-one-to-one-delete-instructor/one-to-one-delete/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/04-jpa-one-to-one-bi/one-to-one-bi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/04-jpa-one-to-one-bi/one-to-one-bi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/05-jpa-one-to-one-bi-delete/jpa-bi-delete-demo/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -31,6 +31,7 @@
         <module name="data-rest-config-demo" />
         <module name="mvc-delete-demo" />
         <module name="crud-with-jpa-demo" />
+        <module name="jpa-bi-delete-demo" />
         <module name="validation-demo" />
         <module name="one-to-one-create" />
         <module name="binding-request-param-demo" />
@@ -123,6 +124,7 @@
       <module name="jdbc-secuirity-demo" options="-parameters" />
       <module name="jdbc-security-custom-table-demo" options="-parameters" />
       <module name="jdbs-authentication-demo" options="-parameters" />
+      <module name="jpa-bi-delete-demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
       <module name="logout-demo" options="-parameters" />
