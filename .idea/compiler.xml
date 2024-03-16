@@ -18,6 +18,7 @@
         <module name="custom-table-sec-demo" />
         <module name="jdbs-authentication-demo" />
         <module name="mvc-crud-demo" />
+        <module name="delete-only-detail" />
         <module name="jdbc-secuirity-demo" />
         <module name="id-from-path-variable-demo" />
         <module name="life-cycle-demo" />
@@ -109,6 +110,7 @@
       <module name="data-rest-demo" options="-parameters" />
       <module name="data-to-model-demo" options="-parameters" />
       <module name="delete-all-demo" options="-parameters" />
+      <module name="delete-only-detail" options="-parameters" />
       <module name="delete-student-demo" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="display-content-role-base-demo" options="-parameters" />
