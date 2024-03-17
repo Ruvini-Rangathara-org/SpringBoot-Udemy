@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SB-Project.iml" filepath="$PROJECT_DIR$/.idea/SB-Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/01-crud-demo-student-create/crud-demo/crud-demo.iml" filepath="$PROJECT_DIR$/03-spring-boot-hibernate-jpa-crud/01-crud-demo-student-create/crud-demo/crud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/06-jpa-one-to-one-bi-delete-only-detail/delete-only-detail/delete-only-detail.iml" filepath="$PROJECT_DIR$/09-spring-boot-advanced-mapping/06-jpa-one-to-one-bi-delete-only-detail/delete-only-detail/delete-only-detail.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/01-jpa-one-to-one-uni-create-instructor/one-to-one-create/one-to-one-create.iml" filepath="$PROJECT_DIR$/09-spring-boot-advanced-mapping/01-jpa-one-to-one-uni-create-instructor/one-to-one-create/one-to-one-create.iml" />
     </modules>
   </component>

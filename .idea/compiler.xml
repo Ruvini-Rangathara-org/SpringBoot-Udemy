@@ -50,6 +50,7 @@
         <module name="restrict-on-url-demo" />
         <module name="scan-demo" />
         <module name="custom-login-form-demo" />
+        <module name="one-to-many-demo" />
         <module name="security-starter-demo" />
         <module name="check-box-prop-demo" />
         <module name="command-line" />
@@ -134,6 +135,7 @@
       <module name="mvc-delete-demo" options="-parameters" />
       <module name="mvc-sec-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
+      <module name="one-to-many-demo" options="-parameters" />
       <module name="one-to-one-bi" options="-parameters" />
       <module name="one-to-one-create" options="-parameters" />
       <module name="one-to-one-create-demo" options="-parameters" />
