@@ -1,4 +1,4 @@
-package com.example.onetomanydemo.entity;
+package com.example.eagerfinddemo.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -27,6 +27,4 @@ public class Course {
     public Course(String title) {
         this.title = title;
     }
-
-
 }

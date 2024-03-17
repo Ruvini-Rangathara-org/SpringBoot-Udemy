@@ -20,6 +20,7 @@
         <module name="mvc-crud-demo" />
         <module name="delete-only-detail" />
         <module name="jdbc-secuirity-demo" />
+        <module name="eager-find-demo" />
         <module name="id-from-path-variable-demo" />
         <module name="life-cycle-demo" />
         <module name="display-content-role-base-demo" />
@@ -117,6 +118,7 @@
       <module name="display-content-role-base-demo" options="-parameters" />
       <module name="drop-down-demo" options="-parameters" />
       <module name="drop-down-with-prop-demo" options="-parameters" />
+      <module name="eager-find-demo" options="-parameters" />
       <module name="employee-demo" options="-parameters" />
       <module name="exception-demo" options="-parameters" />
       <module name="find-all-demo" options="-parameters" />

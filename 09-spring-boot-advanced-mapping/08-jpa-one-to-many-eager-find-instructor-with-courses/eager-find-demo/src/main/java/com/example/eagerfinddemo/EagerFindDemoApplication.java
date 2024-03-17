@@ -1,9 +1,9 @@
-package com.example.onetomanydemo;
+package com.example.eagerfinddemo;
 
-import com.example.onetomanydemo.dao.AppDAO;
-import com.example.onetomanydemo.entity.Course;
-import com.example.onetomanydemo.entity.Instructor;
-import com.example.onetomanydemo.entity.InstructorDetail;
+import com.example.eagerfinddemo.dao.AppDAO;
+import com.example.eagerfinddemo.entity.Course;
+import com.example.eagerfinddemo.entity.Instructor;
+import com.example.eagerfinddemo.entity.InstructorDetail;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,25 +12,28 @@ import org.springframework.context.annotation.Bean;
 import java.util.List;
 
 @SpringBootApplication
-public class OneToManyDemoApplication {
+public class EagerFindDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OneToManyDemoApplication.class, args);
+		SpringApplication.run(EagerFindDemoApplication.class, args);
 	}
+
 
 
 	@Bean
 	public CommandLineRunner demo(AppDAO appDAO) {
 		return (args) -> {
 			System.out.println("Hello World");
-//			createInstructor(appDAO);
-//			findInstructor(appDAO);
+//			createInstructorWithCourses(appDAO);
 
-//			findInstructorDetail(appDAO);
-
-			createInstructorWithCourses(appDAO);
-
+			findInstructorWithCourses(appDAO);
 		};
+	}
+
+	private void findInstructorWithCourses(AppDAO appDAO) {
+		Instructor instructor = appDAO.findById(4);
+		System.out.println("Instructor found: " + instructor);
+		System.out.println("The courses: " + instructor.getCourses());
 	}
 
 	private void createInstructorWithCourses(AppDAO appDAO) {
@@ -51,9 +54,9 @@ public class OneToManyDemoApplication {
 		Course tempCourse1 = new Course("Air Guitar - The Ultimate Guide");
 		Course tempCourse2 = new Course("The Pinball Masterclass");
 
+		List<Course> courses = List.of(tempCourse1, tempCourse2);
 		// add courses to instructor
-		tempInstructor.add(tempCourse1);
-		tempInstructor.add(tempCourse2);
+		tempInstructor.setCourses(courses);
 
 		// save the instructor
 		//

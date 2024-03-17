@@ -1,4 +1,4 @@
-package com.example.onetomanydemo.entity;
+package com.example.eagerfinddemo.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -6,7 +6,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @AllArgsConstructor
@@ -38,6 +37,7 @@ public class Instructor {
 
     @ToString.Exclude
     @OneToMany(mappedBy = "instructor",
+            fetch = FetchType.EAGER,
             cascade = {CascadeType.PERSIST, CascadeType.MERGE,
                     CascadeType.DETACH, CascadeType.REFRESH})
     private List<Course> courses;
@@ -46,13 +46,5 @@ public class Instructor {
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = mail;
-    }
-
-    public void add(Course tempCourse) {
-        if (courses == null) {
-            courses = new ArrayList<>();
-        }
-        courses.add(tempCourse);
-        tempCourse.setInstructor(this);
     }
 }
