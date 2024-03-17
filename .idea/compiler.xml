@@ -38,6 +38,7 @@
         <module name="one-to-one-create" />
         <module name="binding-request-param-demo" />
         <module name="bean-config-demo" />
+        <module name="lazy-find-one-to-many" />
         <module name="thymeleaf-hello-demo" />
         <module name="demo" />
         <module name="myapp" />
@@ -131,6 +132,7 @@
       <module name="jdbs-authentication-demo" options="-parameters" />
       <module name="jpa-bi-delete-demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
+      <module name="lazy-find-one-to-many" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
       <module name="logout-demo" options="-parameters" />
       <module name="mvc-crud-demo" options="-parameters" />

@@ -81,6 +81,7 @@
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/06-jpa-one-to-one-bi-delete-only-detail/delete-only-detail/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/07-jpa-one-to-many-create/one-to-many-demo/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/08-jpa-one-to-many-eager-find-instructor-with-courses/eager-find-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/09-jpa-one-to-many-lazy-find-courses-for-instructor/lazy-find-one-to-many/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
