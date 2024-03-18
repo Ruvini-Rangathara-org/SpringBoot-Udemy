@@ -49,6 +49,7 @@
         <module name="update-instructor-one-to-many" />
         <module name="crud-demo" />
         <module name="text-field-demo" />
+        <module name="delete-one-to-many" />
         <module name="find-all-demo" />
         <module name="radio-basic-demo" />
         <module name="update-student-demo" />
@@ -121,6 +122,7 @@
       <module name="data-to-model-demo" options="-parameters" />
       <module name="delete-all-demo" options="-parameters" />
       <module name="delete-course-one-to-many" options="-parameters" />
+      <module name="delete-one-to-many" options="-parameters" />
       <module name="delete-one-to-many-instructor" options="-parameters" />
       <module name="delete-only-detail" options="-parameters" />
       <module name="delete-student-demo" options="-parameters" />
