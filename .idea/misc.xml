@@ -86,6 +86,7 @@
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/11-jpa-one-to-many-update-instructor/update-instructor-one-to-many/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/12-jpa-one-to-many-update-course/update-course-one-to-many/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/13-jpa-one-to-many-delete-instructor/delete-one-to-many-instructor/pom.xml" />
+        <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/14-jpa-one-to-many-delete-course/delete-course-one-to-many/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

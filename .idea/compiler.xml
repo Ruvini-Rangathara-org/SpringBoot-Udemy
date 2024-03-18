@@ -38,6 +38,7 @@
         <module name="validation-demo" />
         <module name="one-to-one-create" />
         <module name="update-course-one-to-many" />
+        <module name="delete-course-one-to-many" />
         <module name="binding-request-param-demo" />
         <module name="bean-config-demo" />
         <module name="lazy-find-one-to-many" />
@@ -117,6 +118,7 @@
       <module name="data-rest-demo" options="-parameters" />
       <module name="data-to-model-demo" options="-parameters" />
       <module name="delete-all-demo" options="-parameters" />
+      <module name="delete-course-one-to-many" options="-parameters" />
       <module name="delete-one-to-many-instructor" options="-parameters" />
       <module name="delete-only-detail" options="-parameters" />
       <module name="delete-student-demo" options="-parameters" />

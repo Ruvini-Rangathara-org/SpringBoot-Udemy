@@ -83,5 +83,6 @@
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/11-jpa-one-to-many-update-instructor/update-instructor-one-to-many/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/12-jpa-one-to-many-update-course/update-course-one-to-many/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/13-jpa-one-to-many-delete-instructor/delete-one-to-many-instructor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/14-jpa-one-to-many-delete-course/delete-course-one-to-many/src/main/java" charset="UTF-8" />
   </component>
 </project>
