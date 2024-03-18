@@ -88,5 +88,6 @@
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/16-jpa-one-to-many-uni-retrieve-course-and-reviews/one-to-many-uni-fetch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/17-jpa-one-to-many-uni-delete-course-and-reviews/delete-one-to-many/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/18-jpa-many-to-many-create-course-and-students/many-to-many-create/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/19-jpa-many-to-many-find-course-and-students/many-to-many-find/src/main/java" charset="UTF-8" />
   </component>
 </project>
