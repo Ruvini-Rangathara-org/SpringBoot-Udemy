@@ -43,6 +43,7 @@
         <module name="thymeleaf-hello-demo" />
         <module name="demo" />
         <module name="myapp" />
+        <module name="update-instructor-one-to-many" />
         <module name="crud-demo" />
         <module name="text-field-demo" />
         <module name="find-all-demo" />
@@ -168,6 +169,7 @@
       <module name="thymeleaf-form-data-demo" options="-parameters" />
       <module name="thymeleaf-hello-demo" options="-parameters" />
       <module name="update-emp-demo" options="-parameters" />
+      <module name="update-instructor-one-to-many" options="-parameters" />
       <module name="update-student-demo" options="-parameters" />
       <module name="validation-demo" options="-parameters" />
     </option>
