@@ -75,6 +75,7 @@
         <module name="security-demo" />
         <module name="crud-employee-demo" />
         <module name="get-all-with-service-demo" />
+        <module name="many-to-many-delete" />
         <module name="rest-student-list-demo" />
         <module name="table-auto-demo" />
         <module name="core-demo" />
@@ -152,6 +153,7 @@
       <module name="life-cycle-demo" options="-parameters" />
       <module name="logout-demo" options="-parameters" />
       <module name="many-to-many-create" options="-parameters" />
+      <module name="many-to-many-delete" options="-parameters" />
       <module name="many-to-many-find" options="-parameters" />
       <module name="mvc-crud-demo" options="-parameters" />
       <module name="mvc-delete-demo" options="-parameters" />

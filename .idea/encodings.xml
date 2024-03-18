@@ -90,5 +90,6 @@
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/18-jpa-many-to-many-create-course-and-students/many-to-many-create/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/19-jpa-many-to-many-find-course-and-students/many-to-many-find/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/21-jpa-many-to-many-add-more-courses-for-student/add-courses-for-student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09-spring-boot-advanced-mapping/22-jpa-many-to-many-delete-course/many-to-many-delete/src/main/java" charset="UTF-8" />
   </component>
 </project>
