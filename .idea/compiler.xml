@@ -58,6 +58,7 @@
         <module name="scan-demo" />
         <module name="custom-login-form-demo" />
         <module name="one-to-many-demo" />
+        <module name="one-to-many-uni-fetch" />
         <module name="security-starter-demo" />
         <module name="check-box-prop-demo" />
         <module name="command-line" />
@@ -150,6 +151,7 @@
       <module name="myapp" options="-parameters" />
       <module name="one-to-many-demo" options="-parameters" />
       <module name="one-to-many-uni-create" options="-parameters" />
+      <module name="one-to-many-uni-fetch" options="-parameters" />
       <module name="one-to-one-bi" options="-parameters" />
       <module name="one-to-one-create" options="-parameters" />
       <module name="one-to-one-create-demo" options="-parameters" />
