@@ -90,6 +90,7 @@
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/15-jpa-one-to-many-uni-create-course-and-reviews/one-to-many-uni-create/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/16-jpa-one-to-many-uni-retrieve-course-and-reviews/one-to-many-uni-fetch/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/17-jpa-one-to-many-uni-delete-course-and-reviews/delete-one-to-many/pom.xml" />
+        <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/18-jpa-many-to-many-create-course-and-students/many-to-many-create/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

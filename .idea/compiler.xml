@@ -39,6 +39,7 @@
         <module name="validation-demo" />
         <module name="one-to-one-create" />
         <module name="update-course-one-to-many" />
+        <module name="many-to-many-create" />
         <module name="delete-course-one-to-many" />
         <module name="binding-request-param-demo" />
         <module name="bean-config-demo" />
@@ -147,6 +148,7 @@
       <module name="lazy-find-one-to-many" options="-parameters" />
       <module name="life-cycle-demo" options="-parameters" />
       <module name="logout-demo" options="-parameters" />
+      <module name="many-to-many-create" options="-parameters" />
       <module name="mvc-crud-demo" options="-parameters" />
       <module name="mvc-delete-demo" options="-parameters" />
       <module name="mvc-sec-demo" options="-parameters" />
