@@ -19,6 +19,7 @@
         <module name="custom-table-sec-demo" />
         <module name="jdbs-authentication-demo" />
         <module name="mvc-crud-demo" />
+        <module name="one-to-many-uni-create" />
         <module name="delete-only-detail" />
         <module name="jdbc-secuirity-demo" />
         <module name="eager-find-demo" />
@@ -148,6 +149,7 @@
       <module name="mvc-sec-demo" options="-parameters" />
       <module name="myapp" options="-parameters" />
       <module name="one-to-many-demo" options="-parameters" />
+      <module name="one-to-many-uni-create" options="-parameters" />
       <module name="one-to-one-bi" options="-parameters" />
       <module name="one-to-one-create" options="-parameters" />
       <module name="one-to-one-create-demo" options="-parameters" />
