@@ -37,6 +37,7 @@
         <module name="jpa-bi-delete-demo" />
         <module name="validation-demo" />
         <module name="one-to-one-create" />
+        <module name="update-course-one-to-many" />
         <module name="binding-request-param-demo" />
         <module name="bean-config-demo" />
         <module name="lazy-find-one-to-many" />
@@ -168,6 +169,7 @@
       <module name="text-field-demo" options="-parameters" />
       <module name="thymeleaf-form-data-demo" options="-parameters" />
       <module name="thymeleaf-hello-demo" options="-parameters" />
+      <module name="update-course-one-to-many" options="-parameters" />
       <module name="update-emp-demo" options="-parameters" />
       <module name="update-instructor-one-to-many" options="-parameters" />
       <module name="update-student-demo" options="-parameters" />
