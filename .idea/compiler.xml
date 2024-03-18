@@ -78,6 +78,7 @@
         <module name="one-to-one-bi" />
         <module name="delete-student-demo" />
         <module name="data-rest-demo" />
+        <module name="delete-one-to-many-instructor" />
         <module name="add-emp-demo" />
         <module name="radio-button-prop-demo" />
         <module name="bean-scope-demo" />
@@ -89,6 +90,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cruddemo" target="17" />
+      <module name="delete-one-to-many-instructor" target="17" />
       <module name="one-to-one-create-demo" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -116,6 +118,7 @@
       <module name="data-rest-demo" options="-parameters" />
       <module name="data-to-model-demo" options="-parameters" />
       <module name="delete-all-demo" options="-parameters" />
+      <module name="delete-one-to-many-instructor" options="-parameters" />
       <module name="delete-only-detail" options="-parameters" />
       <module name="delete-student-demo" options="-parameters" />
       <module name="demo" options="-parameters" />

@@ -62,9 +62,9 @@ public class LazyFindOneToManyApplication {
 		Course tempCourse1 = new Course("Air Guitar - The Ultimate Guide");
 		Course tempCourse2 = new Course("The Pinball Masterclass");
 
-		List<Course> courses = List.of(tempCourse1, tempCourse2);
 		// add courses to instructor
-		tempInstructor.setCourses(courses);
+		tempInstructor.add(tempCourse1);
+		tempInstructor.add(tempCourse2);
 
 		// save the instructor
 		//

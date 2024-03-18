@@ -6,6 +6,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
 
+import java.util.ArrayList;
 import java.util.List;
 
 @AllArgsConstructor
@@ -46,5 +47,13 @@ public class Instructor {
         this.firstName = firstName;
         this.lastName = lastName;
         this.email = mail;
+    }
+
+    public void add(Course tempCourse) {
+        if (courses == null) {
+            courses = new ArrayList<>();
+        }
+        courses.add(tempCourse);
+        tempCourse.setInstructor(this);
     }
 }
