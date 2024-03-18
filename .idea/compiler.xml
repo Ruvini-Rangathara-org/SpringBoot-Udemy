@@ -51,6 +51,7 @@
         <module name="update-instructor-one-to-many" />
         <module name="crud-demo" />
         <module name="text-field-demo" />
+        <module name="add-courses-for-student" />
         <module name="delete-one-to-many" />
         <module name="find-all-demo" />
         <module name="radio-basic-demo" />
@@ -102,6 +103,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="actuator-demo" options="-parameters" />
+      <module name="add-courses-for-student" options="-parameters" />
       <module name="add-emp-demo" options="-parameters" />
       <module name="bean-config-demo" options="-parameters" />
       <module name="bean-scope-demo" options="-parameters" />
