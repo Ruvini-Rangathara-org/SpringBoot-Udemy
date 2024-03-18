@@ -13,6 +13,7 @@
         <module name="global-exception-demo" />
         <module name="crud-read-demo" />
         <module name="lazy-demo" />
+        <module name="join-fetch-one-to-many" />
         <module name="custom-validation-demo" />
         <module name="logout-demo" />
         <module name="custom-table-sec-demo" />
@@ -130,6 +131,7 @@
       <module name="jdbc-secuirity-demo" options="-parameters" />
       <module name="jdbc-security-custom-table-demo" options="-parameters" />
       <module name="jdbs-authentication-demo" options="-parameters" />
+      <module name="join-fetch-one-to-many" options="-parameters" />
       <module name="jpa-bi-delete-demo" options="-parameters" />
       <module name="lazy-demo" options="-parameters" />
       <module name="lazy-find-one-to-many" options="-parameters" />
