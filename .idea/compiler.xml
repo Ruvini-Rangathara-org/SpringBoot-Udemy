@@ -90,7 +90,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cruddemo" target="17" />
-      <module name="delete-one-to-many-instructor" target="17" />
       <module name="one-to-one-create-demo" target="17" />
     </bytecodeTargetLevel>
   </component>
