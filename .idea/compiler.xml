@@ -54,6 +54,7 @@
         <module name="text-field-demo" />
         <module name="add-courses-for-student" />
         <module name="delete-one-to-many" />
+        <module name="pointcut-combine" />
         <module name="find-all-demo" />
         <module name="radio-basic-demo" />
         <module name="update-student-demo" />
@@ -172,6 +173,7 @@
       <module name="one-to-one-delete" options="-parameters" />
       <module name="one-to-one-find" options="-parameters" />
       <module name="pointcut-any-method" options="-parameters" />
+      <module name="pointcut-combine" options="-parameters" />
       <module name="pointcut-dec" options="-parameters" />
       <module name="post-get-demo" options="-parameters" />
       <module name="primary-demo" options="-parameters" />
