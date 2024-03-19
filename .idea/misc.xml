@@ -96,6 +96,7 @@
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/22-jpa-many-to-many-delete-course/many-to-many-delete/pom.xml" />
         <option value="$PROJECT_DIR$/10-spring-boot-aop/01-spring-boot-aop-before-advice/aop-before/pom.xml" />
         <option value="$PROJECT_DIR$/10-spring-boot-aop/02-spring-boot-aop-pointcut-expressions-match-any-add-account/pointcut-any-method/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/03-spring-boot-aop-demo-pointcut-declarations/pointcut-dec/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
