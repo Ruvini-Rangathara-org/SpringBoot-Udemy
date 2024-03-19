@@ -12,6 +12,7 @@
         <module name="thymeleaf-form-data-demo" />
         <module name="global-exception-demo" />
         <module name="crud-read-demo" />
+        <module name="pointcut-any-method" />
         <module name="lazy-demo" />
         <module name="join-fetch-one-to-many" />
         <module name="custom-validation-demo" />
@@ -169,6 +170,7 @@
       <module name="one-to-one-create-demo" options="-parameters" />
       <module name="one-to-one-delete" options="-parameters" />
       <module name="one-to-one-find" options="-parameters" />
+      <module name="pointcut-any-method" options="-parameters" />
       <module name="post-get-demo" options="-parameters" />
       <module name="primary-demo" options="-parameters" />
       <module name="property-demo" options="-parameters" />
