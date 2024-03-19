@@ -58,6 +58,7 @@
         <module name="update-student-demo" />
         <module name="update-emp-demo" />
         <module name="rest-hello-demo" />
+        <module name="aop-before" />
         <module name="restrict-on-url-demo" />
         <module name="scan-demo" />
         <module name="custom-login-form-demo" />
@@ -106,6 +107,7 @@
       <module name="actuator-demo" options="-parameters" />
       <module name="add-courses-for-student" options="-parameters" />
       <module name="add-emp-demo" options="-parameters" />
+      <module name="aop-before" options="-parameters" />
       <module name="bean-config-demo" options="-parameters" />
       <module name="bean-scope-demo" options="-parameters" />
       <module name="binding-request-param-demo" options="-parameters" />

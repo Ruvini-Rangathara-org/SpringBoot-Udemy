@@ -94,6 +94,7 @@
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/19-jpa-many-to-many-find-course-and-students/many-to-many-find/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/21-jpa-many-to-many-add-more-courses-for-student/add-courses-for-student/pom.xml" />
         <option value="$PROJECT_DIR$/09-spring-boot-advanced-mapping/22-jpa-many-to-many-delete-course/many-to-many-delete/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/01-spring-boot-aop-before-advice/aop-before/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
