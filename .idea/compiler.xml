@@ -17,6 +17,7 @@
         <module name="lazy-demo" />
         <module name="join-fetch-one-to-many" />
         <module name="custom-validation-demo" />
+        <module name="after-demo" />
         <module name="logout-demo" />
         <module name="custom-table-sec-demo" />
         <module name="jdbs-authentication-demo" />
@@ -114,6 +115,7 @@
       <module name="actuator-demo" options="-parameters" />
       <module name="add-courses-for-student" options="-parameters" />
       <module name="add-emp-demo" options="-parameters" />
+      <module name="after-demo" options="-parameters" />
       <module name="after-returning-advice" options="-parameters" />
       <module name="after-throwing-demo" options="-parameters" />
       <module name="aop-before" options="-parameters" />
