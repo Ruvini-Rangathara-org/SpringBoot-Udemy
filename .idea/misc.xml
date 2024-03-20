@@ -101,6 +101,7 @@
         <option value="$PROJECT_DIR$/10-spring-boot-aop/05-spring-boot-aop-demo-order-aspects/aspect-order-demo/pom.xml" />
         <option value="$PROJECT_DIR$/10-spring-boot-aop/06-spring-boot-aop-demo-read-joinpoint/arg-read-jointpoint/pom.xml" />
         <option value="$PROJECT_DIR$/10-spring-boot-aop/07-spring-boot-aop-demo-after-returning-advice/after-returning-advice/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/08-spring-boot-aop-demo-after-throwing-advice/after-throwing-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -11,6 +11,7 @@
         <module name="one-to-one-find" />
         <module name="thymeleaf-form-data-demo" />
         <module name="global-exception-demo" />
+        <module name="after-throwing-demo" />
         <module name="crud-read-demo" />
         <module name="pointcut-any-method" />
         <module name="lazy-demo" />
@@ -114,6 +115,7 @@
       <module name="add-courses-for-student" options="-parameters" />
       <module name="add-emp-demo" options="-parameters" />
       <module name="after-returning-advice" options="-parameters" />
+      <module name="after-throwing-demo" options="-parameters" />
       <module name="aop-before" options="-parameters" />
       <module name="arg-read-jointpoint" options="-parameters" />
       <module name="aspect-order-demo" options="-parameters" />
