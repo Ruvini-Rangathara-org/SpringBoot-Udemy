@@ -99,6 +99,7 @@
         <option value="$PROJECT_DIR$/10-spring-boot-aop/03-spring-boot-aop-demo-pointcut-declarations/pointcut-dec/pom.xml" />
         <option value="$PROJECT_DIR$/10-spring-boot-aop/04-spring-boot-aop-demo-pointcut-declarations-combine/pointcut-combine/pom.xml" />
         <option value="$PROJECT_DIR$/10-spring-boot-aop/05-spring-boot-aop-demo-order-aspects/aspect-order-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/06-spring-boot-aop-demo-read-joinpoint/arg-read-jointpoint/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

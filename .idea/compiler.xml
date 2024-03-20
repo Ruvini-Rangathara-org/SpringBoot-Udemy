@@ -43,6 +43,7 @@
         <module name="one-to-one-create" />
         <module name="update-course-one-to-many" />
         <module name="many-to-many-create" />
+        <module name="arg-read-jointpoint" />
         <module name="delete-course-one-to-many" />
         <module name="binding-request-param-demo" />
         <module name="bean-config-demo" />
@@ -112,6 +113,7 @@
       <module name="add-courses-for-student" options="-parameters" />
       <module name="add-emp-demo" options="-parameters" />
       <module name="aop-before" options="-parameters" />
+      <module name="arg-read-jointpoint" options="-parameters" />
       <module name="aspect-order-demo" options="-parameters" />
       <module name="bean-config-demo" options="-parameters" />
       <module name="bean-scope-demo" options="-parameters" />
