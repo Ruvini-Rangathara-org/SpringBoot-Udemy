@@ -21,6 +21,7 @@
         <module name="jdbs-authentication-demo" />
         <module name="mvc-crud-demo" />
         <module name="many-to-many-find" />
+        <module name="aspect-order-demo" />
         <module name="one-to-many-uni-create" />
         <module name="delete-only-detail" />
         <module name="jdbc-secuirity-demo" />
@@ -111,6 +112,7 @@
       <module name="add-courses-for-student" options="-parameters" />
       <module name="add-emp-demo" options="-parameters" />
       <module name="aop-before" options="-parameters" />
+      <module name="aspect-order-demo" options="-parameters" />
       <module name="bean-config-demo" options="-parameters" />
       <module name="bean-scope-demo" options="-parameters" />
       <module name="binding-request-param-demo" options="-parameters" />

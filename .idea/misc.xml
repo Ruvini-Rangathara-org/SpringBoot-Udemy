@@ -98,6 +98,7 @@
         <option value="$PROJECT_DIR$/10-spring-boot-aop/02-spring-boot-aop-pointcut-expressions-match-any-add-account/pointcut-any-method/pom.xml" />
         <option value="$PROJECT_DIR$/10-spring-boot-aop/03-spring-boot-aop-demo-pointcut-declarations/pointcut-dec/pom.xml" />
         <option value="$PROJECT_DIR$/10-spring-boot-aop/04-spring-boot-aop-demo-pointcut-declarations-combine/pointcut-combine/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/05-spring-boot-aop-demo-order-aspects/aspect-order-demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
