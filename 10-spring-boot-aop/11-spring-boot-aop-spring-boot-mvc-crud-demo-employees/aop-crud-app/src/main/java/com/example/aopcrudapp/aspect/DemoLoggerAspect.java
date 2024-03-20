@@ -1,6 +1,7 @@
 package com.example.aopcrudapp.aspect;
 
 import org.aspectj.lang.JoinPoint;
+import org.aspectj.lang.annotation.AfterReturning;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.Pointcut;
@@ -29,10 +30,21 @@ public class DemoLoggerAspect {
     public void before(JoinPoint joinPoint) {
         String method = joinPoint.getSignature().toShortString();
         logger.info("=====>>> Executing @Before advice on method : "+method);
-
         Object[] args = joinPoint.getArgs();
         for (Object arg : args) {
             logger.info("=====>>> Argument : "+arg);
         }
+    }
+
+
+
+    @AfterReturning(
+            pointcut = "forAppFlow()",
+            returning = "result"
+    )
+    public void afterReturning(JoinPoint joinPoint, Object result) {
+        String method = joinPoint.getSignature().toShortString();
+        logger.info("=====>>> Executing @AfterReturning advice on method : "+method);
+        logger.info("=====>>> Result : "+result);
     }
 }
