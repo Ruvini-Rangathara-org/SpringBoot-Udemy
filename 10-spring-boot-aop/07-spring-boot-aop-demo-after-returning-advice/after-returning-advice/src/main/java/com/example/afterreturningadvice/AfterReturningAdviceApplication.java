@@ -30,7 +30,6 @@ public class AfterReturningAdviceApplication {
 		System.out.println("----");
 
 		System.out.println(theAccounts);
-
 		System.out.println("\n");
 	}
 
