@@ -59,6 +59,7 @@
         <module name="pointcut-combine" />
         <module name="find-all-demo" />
         <module name="radio-basic-demo" />
+        <module name="after-returning-advice" />
         <module name="update-student-demo" />
         <module name="update-emp-demo" />
         <module name="rest-hello-demo" />
@@ -112,6 +113,7 @@
       <module name="actuator-demo" options="-parameters" />
       <module name="add-courses-for-student" options="-parameters" />
       <module name="add-emp-demo" options="-parameters" />
+      <module name="after-returning-advice" options="-parameters" />
       <module name="aop-before" options="-parameters" />
       <module name="arg-read-jointpoint" options="-parameters" />
       <module name="aspect-order-demo" options="-parameters" />
