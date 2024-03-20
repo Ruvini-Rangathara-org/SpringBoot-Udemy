@@ -104,6 +104,7 @@
         <option value="$PROJECT_DIR$/10-spring-boot-aop/08-spring-boot-aop-demo-after-throwing-advice/after-throwing-demo/pom.xml" />
         <option value="$PROJECT_DIR$/10-spring-boot-aop/09-spring-boot-aop-demo-after-advice/after-demo/pom.xml" />
         <option value="$PROJECT_DIR$/10-spring-boot-aop/10-spring-boot-aop-demo-around-advice/around-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-boot-aop/11-spring-boot-aop-spring-boot-mvc-crud-demo-employees/aop-crud-app/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="primary-demo" />
         <module name="thymeleaf-form-data-demo" />
+        <module name="aop-crud-app" />
         <module name="after-throwing-demo" />
         <module name="pointcut-any-method" />
         <module name="join-fetch-one-to-many" />
@@ -120,6 +121,7 @@
       <module name="after-returning-advice" options="-parameters" />
       <module name="after-throwing-demo" options="-parameters" />
       <module name="aop-before" options="-parameters" />
+      <module name="aop-crud-app" options="-parameters" />
       <module name="arg-read-jointpoint" options="-parameters" />
       <module name="around-demo" options="-parameters" />
       <module name="aspect-order-demo" options="-parameters" />
